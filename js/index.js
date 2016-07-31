@@ -2,7 +2,7 @@ $(function(){
         var musics=[
          {src:"./music/1.mp3",name:"坚持到底",arit:"阿杜",time:"04:09"},
          {src:"./music/萌萌哒天团 - 帝都.mp3",name:"萌萌哒天团",arit:"帝都",time:"03:03"},
-         {src:"./music/3.mp3",name:"夜空中最亮的星",arit:"逃跑计划",time:"04:12"},
+         {src:"./music/爱就一个字 .mp3",name:"爱就一个字",arit:"张信哲",time:"04:36"},
          {src:"./music/4.mp3",name:"光阴的故事",arit:"佟大为",time:"03:32"},
          {src:"./music/二珂 - 走在冷风中.mp3",name:"走在冷风中",arit:"二珂",time:"03:30"},
         {src:"./music/海鸣威 - 一个人的北京.mp3",name:"一个人的北京",arit:"海鸣威",time:"03:26"},
